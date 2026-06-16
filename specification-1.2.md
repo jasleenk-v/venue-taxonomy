@@ -160,7 +160,7 @@ The enumerated list can be passed in the bid request. It is a comma-separated ar
 | Retail Other          | A retail business not currently defined by the taxonomy. | 216 | retail.other |
 | Sporting Good         | An establishment that specializes in selling new sporting equipment, apparel, and related accessories. | 217 | retail.sporting\_goods |
 | Pet Store             | An establishment that sells domestic animals and supplies related to their care, like food, toys, and accessories. | 218 | retail.pet\_stores |
-| Office Supply         | An establishment that sells domestic animals and supplies related to their care, like food, toys, and accessories. | 219 | retail.office\_supply |
+| Office Supply         | An establishment that sells office supplis and stationary, including paper, writing instruments, desk accessories and workplace essentials. | 219 | retail.office\_supply |
 | Home Renovation       | An establishment that sells a wide range of products for home improvement, repair, and decoration. A home renovation store, also known as a home improvement center or home center. | 220 | retail.home\_renovation|
 
 ### Outdoor
